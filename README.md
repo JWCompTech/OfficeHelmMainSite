@@ -122,7 +122,8 @@ Contributions, issues, and feature requests are welcome! Feel free to open issue
 
 ## License
 
-This project is licensed under the LGPL-3.0 license.
+This project is licensed under the GNU Lesser General Public License v3.0.  
+See the [LICENSE](./LICENSE.md) file for details.
 
 ---
 
