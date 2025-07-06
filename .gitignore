@@ -137,3 +137,7 @@ dist
 # Vite logs files
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
+
+# VSCode and IntelliJ IDEA Project Settings folders
+.vscode/
+.idea/
